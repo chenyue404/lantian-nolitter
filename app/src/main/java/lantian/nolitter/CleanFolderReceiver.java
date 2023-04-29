@@ -7,8 +7,9 @@ import android.content.Intent;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.preference.PreferenceManager;
-import android.support.v4.content.ContextCompat;
 import android.widget.Toast;
+
+import androidx.core.content.ContextCompat;
 
 import java.io.IOException;
 import java.util.List;
